@@ -1,0 +1,8 @@
+rsa==3.4.2
+nltk==3.2.5
+openai
+tiktoken
+panel
+# dotenv
+python-dotenv
+
